@@ -1,0 +1,38 @@
+---
+title: "APPS"
+author: "Francisco Vega"
+output:
+  rmdformats::downcute:
+    self_contained: true
+    default_style: "dark"
+    downcute_theme: "default"
+---
+
+Apps creadas por mi:
+
+## Sheep Puzzle
+
+![Descargar](Images/Sheep_Puzzle_icon.jpg "Sheep Puzzle"){width="100"}
+
+Sheep Puzzle es una app que desafiará tus habilidades mediante una serie de puzzles que irán apareciendo en pantalla. La idea final es liberar a la oveja :)
+
+Spoiler: Esta app usa los siguientes sensores para funcionar:
+
+1.  Acelerometro
+2.  Orientación
+3.  Podómetro
+4.  Sensor de Proximidad
+5.  Sonido
+6.  Reconocimiento de Voz (De google, este aparece en pantalla cuando se utiliza)
+
+No requiere conexión a Internet, No funciona en segundo plano.
+
+## Sheep Money
+
+![Descargar](Images/Sheep_Money_icon.jpg "Sheep Money"){width="100"}
+
+Sheep Money es una app para que puedas escribir y almacenar la información de tus movimientos monetarios como la compra de unas papitas o el pago de un trabajo. Esta app también cuenta con un apartado para anotar información de si le debes dinero a alguien o si alguien te debe dinero.
+
+Esta app usa el almacenamiento interno del dispositivo para guardar la información que agregas.
+
+No requiere conexión a Internet, No funciona en segundo plano.
