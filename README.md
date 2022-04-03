@@ -1,8 +1,8 @@
 Aquí subiré mis proyectos, apps o cursos que haga para que puedan acceder a ellos y así aprender junto a mi diferentes cosas :grin:
 
-## Apps :calling:
+## Apps [:calling:](https://beitey.github.io/PanchoWeb/Apps.html "Apps")
 
-Aquí subiré todas las apps que vaya creando, por el momento solo se hacer apps para android y no para iOS. En android deben tener habilitada la opción de "Instalar apps fuera de la playstore". Aun estoy viendo la posibilidad de subir directamente las apps a Google Play Store pero para ello necesito pagar 30 USD. En las descripciones de las apps pondré que usan para ser lo mas transparente posible, en caso de que alguien quiera el código puede escribirme o hablarme para yo enseñarle que hace la aplicación.
+Aquí subiré todas las apps que vaya creando, por el momento solo se hacer apps para android y no para iOS. En android deben tener habilitada la opción de "Instalar apps fuera de la playstore". Aun estoy viendo la posibilidad de subir directamente las apps a Google Play Store pero para ello necesito pagar 30 USD. En las descripciones de las apps pondré que usan para ser lo mas transparente posible, en caso de que alguien quiera el código puede escribirme o hablarme para yo enseñarle que hace la aplicación. Para ir a la página haga click en el celular o [aquí.](https://beitey.github.io/PanchoWeb/Apps.html)
 
 ## Intro a programación [:computer:](https://beitey.github.io/Intro-a-Python/) (En Construcción 60%)
 
