@@ -8,6 +8,10 @@ Aquí subiré todas las apps que vaya creando, por el momento solo se hacer apps
 
 Este es un curso que hice para que puedan aprender a programar en Python. Aún no está completo pero la iré actualizando para que puedan empezar a programar. Toda la info desde como instalar Python está en esa pagina web. Así que no esperes más y anda a programar como los dioses. Para acceder al curso hagan click en el pc o aquí: [IR A LA PAGE.](https://beitey.github.io/Intro-a-Python/ "Intro a Python")
 
+## Twitch [:video_game:](https://www.twitch.tv/beitey)
+
+Aquí hago streams jugando o programando. Así que sería bkn que me siguieras en Twitch para hacer crecer esta mini comunidad de gente rata. [Ir a Twitch](https://www.twitch.tv/beitey)
+
 ## Extras:
 
-Si necesitan alguna explicación de un código o quieren algún tutorial pídanlo nomas. Pueden escribirme al mail o a mi ig
+Si necesitan alguna explicación de un código o quieren algún tutorial pídanlo nomas. Pueden escribirme al [mail](vega_fra@uc.cl "vega_fra@uc.cl") o a mi [ig](https://www.instagram.com/impactante_para_la_vista/ "IG")
