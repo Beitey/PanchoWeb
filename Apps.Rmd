@@ -8,11 +8,11 @@ output:
     downcute_theme: "default"
 ---
 
-Apps creadas por mi:
+# Apps creadas por mi:
 
-## Sheep Puzzle
+## [Sheep Puzzle](https://beitey.github.io/PanchoWeb/APK/Sheep_Puzzle_v1.2.apk)
 
-[![[Descargar](https://beitey.github.io/PanchoWeb/APK/Sheep_Puzzle_v1.2.apk)](Images/Sheep_Puzzle_icon.jpg "Sheep Puzzle"){width="100"}](https://beitey.github.io/PanchoWeb/APK/Sheep_Puzzle_v1.2.apk)
+[![\[Descargar\](https://beitey.github.io/PanchoWeb/APK/Sheep_Puzzle_v1.2.apk)](Images/Sheep_Puzzle_icon.jpg "Sheep Puzzle"){width="100"}](https://beitey.github.io/PanchoWeb/APK/Sheep_Puzzle_v1.2.apk)
 
 Sheep Puzzle es una app que desafiará tus habilidades mediante una serie de puzzles que irán apareciendo en pantalla. La idea final es liberar a la oveja :)
 
@@ -27,9 +27,9 @@ Spoiler: Esta app usa los siguientes sensores para funcionar:
 
 No requiere conexión a Internet, No funciona en segundo plano.
 
-## Sheep Money
+## [Sheep Money](https://beitey.github.io/PanchoWeb/APK/Sheep_Money_v1.7.apk)
 
-[![[Descargar](https://beitey.github.io/PanchoWeb/APK/Sheep_Money_v1.4.apk)](Images/Sheep_Money_icon.jpg "Sheep Money"){width="100"}](https://beitey.github.io/PanchoWeb/APK/Sheep_Money_v1.4.apk)
+[![\[Descargar\](https://beitey.github.io/PanchoWeb/APK/Sheep_Money_v1.7.apk)](Images/Sheep_Money_icon.jpg "Sheep Money"){width="100"}](https://beitey.github.io/PanchoWeb/APK/Sheep_Money_v1.7.apk)
 
 Sheep Money es una app para que puedas escribir y almacenar la información de tus movimientos monetarios como la compra de unas papitas o el pago de un trabajo. Esta app también cuenta con un apartado para anotar información de si le debes dinero a alguien o si alguien te debe dinero.
 
